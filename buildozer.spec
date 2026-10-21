@@ -1,4 +1,3 @@
-ini
 [app]
 title = VK Downloader
 package.name = vkdownloader
@@ -12,5 +11,4 @@ orientation = portrait
 fullscreen = 0
 android.archs = arm64-v8a
 
-# Запрос прав на чтение и запись в память устройства
-android.permissions = WRITE_EXTERNAL_STORAGE
+android.permissions = WRITE_EXTERNAL_STORAGE, 
